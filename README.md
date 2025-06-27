@@ -1,16 +1,84 @@
-# store_app
+# 🔌 Electrical Store - Retail Store Mobile App
 
-A new Flutter project.
+**Electrical Store** is a mobile application designed to help customers browse, search, and purchase electrical products easily. The app provides a smooth shopping experience with product categories, details, and cart management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📦 Browse electrical product categories  
+- 🔍 Search products by name or category  
+- 🛒 Add products to cart and manage orders  
+- 🛍️ Simple and intuitive user interface  
+- 🔔 Notifications for offers and new products  
+- 💳 (Optional) Integrated payment gateways  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - Cross-platform UI toolkit  
+- Dart - Programming language  
+- Firebase (Authentication, Firestore, Storage)  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/oooomar896/electrical-store.git
+cd electrical-store
+
+2. Install dependencies
+
+flutter pub get
+
+3. Firebase Setup
+
+Create Firebase project
+
+Add Android & iOS apps
+
+Download google-services.json and GoogleService-Info.plist
+
+Place files in respective folders
+
+
+4. Run the app
+
+flutter run
+
+
+---
+
+👤 About the Developer
+
+Omar Al-Odainy
+📱 Mobile App Developer | Flutter & Odoo Developer
+📍 Riyadh, Saudi Arabia
+📧 oooomar123450@gmail.com
+💼 LinkedIn
+💻 GitHub
+
+
+---
+
+🤝 Contributing
+
+Contributions are welcome! Please fork the repo and submit pull requests.
+
+
+---
+
+📄 License
+
+This project is for educational purposes only. See the LICENSE.md file for details.
+
+
+---
+
+> Electrical Store — powering your shopping experience with ease.
+
+
